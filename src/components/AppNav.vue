@@ -44,15 +44,7 @@ export default {
                     active: false
                 },
             ],
-            listOfUser: [
-               
-                {
-                    title: "Federico",
-                    visible: true,
-                    url: 'https://i.pinimg.com/originals/61/54/76/61547625e01d8daf941aae3ffb37f653.png'
-                },
-                
-            ]
+            
         }
     },
     methods: {
